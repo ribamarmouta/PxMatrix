@@ -1,3 +1,5 @@
+Ists not working in esp32 because the timer and the gpios
+
 # PxMatrix - LED matrix panel driver for ESP8266, ESP32 and ATMEL
 
 <center><img src=./images/front_anim2.gif></center>
